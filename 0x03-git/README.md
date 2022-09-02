@@ -1,1 +1,1 @@
-My second readme file
+Programming is cool
